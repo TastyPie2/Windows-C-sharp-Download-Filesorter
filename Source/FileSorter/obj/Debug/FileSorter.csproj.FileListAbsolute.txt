@@ -1,0 +1,12 @@
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\bin\Debug\FileSorter.exe.config
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\bin\Debug\FileSorter.exe
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\bin\Debug\FileSorter.pdb
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.csprojAssemblyReference.cache
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.exe
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.pdb
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\bin\Debug\FileSorter.exe.manifest
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\bin\Debug\FileSorter.application
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.TrustInfo.xml
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.exe.manifest
+C:\Users\Mathias\source\repos\Download file sorter\FileSorter\obj\Debug\FileSorter.application
